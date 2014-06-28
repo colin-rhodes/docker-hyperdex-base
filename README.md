@@ -1,0 +1,1 @@
+base dockerfile for running hyperdex
